@@ -78,3 +78,6 @@ Aunque el proyecto está basado en un **tutorial oficial de Flet**, se realizaro
 - Ajustes visuales para diferenciar el diseño del ejemplo original.
 
 Estas modificaciones permiten que la calculadora no sea idéntica al tutorial base.
+
+<img width="380" height="312" alt="image" src="https://github.com/user-attachments/assets/ce2503d5-9867-4798-a62a-7708a825a6ed" />
+
